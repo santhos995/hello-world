@@ -3,7 +3,7 @@ int main()
 {
 int i,j;
 printf("Enter two no.");
-scanf("%d %d",&i,&j);
+scanf("%d %d\t",&i,&j);
 printf("\nAdd.. %d\n",i+j);
 printf("Sub.. %d",i-j);
 printf("Mul.. %d",i*j);
