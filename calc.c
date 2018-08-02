@@ -9,6 +9,5 @@ printf("\nSub.. %d\n",i-j);
 printf("\nMul.. %d\n",i*j);
 printf("\nDiv.. %d\n",i/j);
 return 0;
-/*Comment*/
-/*Comment by Mayank*/
+
 }
