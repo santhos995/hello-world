@@ -10,6 +10,6 @@ printf("Mul.. %d",i*j);
 printf("Div.. %d\n",i/j);
 printf("\nDone!!\n", );
 return 0;
-/*Comment And*/
+/*Comment Andrew/
 /*Comment by Mayank*/
 }
